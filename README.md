@@ -9,4 +9,4 @@ Skills 💪: React / React Native / Js / Html / Css / Sass / Unity / C#
 - 🌱 I’m currently learning and improving my skills in Unity and TypeScript.
 - 🤲 I’m looking to collaborate on web, mobile or game development.
 - ✉️ How to reach me: [sacha.marits@gmail.com](mailto:sacha.marits@gmail.com).
-- ⭐ My website: [SachaMarits.be](https://sachamarits.be)
+- ⭐ My website: [Sacha-Marits.be](https://sacha-marits.be)
